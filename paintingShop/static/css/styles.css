@@ -1,0 +1,75 @@
+.nav-text {
+    color: white;
+}
+
+.button-center {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+h4 {
+    color: white;
+    font-family: Parisienne-Regular;
+}
+
+p {
+  color: black;
+  text-align: left;
+}
+
+.p-serials {
+    text-align: left
+}
+
+.main-title {
+    text-align: center;
+    font-family: arial;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: blue;
+}
+
+div {
+    margin-top: 20;
+    margin-right: 20;
+}
+
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.image1 {
+  position: relative;
+  top: 0;
+  left: 0;
+  border: 0 red solid;
+}
+.image2 {
+  position: absolute;
+  bottom: 10px;
+  right: 50px;
+  border: 0 green solid;
+}
+
+.container {
+    margin-top: 80px;
+}
+
+.card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
